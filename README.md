@@ -2,5 +2,5 @@
 Hi there :wave: -  My name is Thais Brasil Lenhard
 </h2>
 
-- 🌱 I’m currently learning Android and Kotlin - **Santander Coders Mobile 2020 from Digital House**
+- 🌱 Junior Android Develop at Moochies
 - 📫 How to reach me: thais.blenhard@gmail.com
