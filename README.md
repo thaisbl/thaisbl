@@ -2,5 +2,5 @@
 Hi there :wave: -  My name is Thais Brasil Lenhard
 </h2>
 
-- 🌱 Android Develop at Moochies
+- 🌱 Android Developer at CI&T
 - 📫 How to reach me: thais.blenhard@gmail.com
